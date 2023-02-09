@@ -6,4 +6,5 @@
 
 > Top Conference on ML and edge Computing
 
-- ICML | 2023 Fortieth International Conference on Machine Learning[[link]](https://icml.cc/Conferences/)
+- ICML | 2023 40th International Conference on Machine Learning-[[link]](https://icml.cc/Conferences/)[Deadline: Jan 09]
+- 22nd International Symposium on Quality Electronic Design (ISQED)-[[link]](https://www.isqed.org/English/Conference/Call_for_Papers.html)[Deadline: November 23rd]
