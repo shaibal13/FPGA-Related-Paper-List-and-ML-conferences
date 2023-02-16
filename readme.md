@@ -9,4 +9,4 @@
 - ICML | 2023 40th International Conference on Machine Learning-[[link]](https://icml.cc/Conferences/)[Deadline: Jan 09]
 - 22nd International Symposium on Quality Electronic Design (ISQED)-[[link]](https://www.isqed.org/English/Conference/Call_for_Papers.html)[Deadline: November 23rd]
 - 36th Conference on Neural Information Processing Systems(NeurIPS)-[[Link]](https://nips.cc/)[Deadline: Jul 04 ]
--The 29th IEEE International Symposium on High-Performance Computer Architecture (HPCA-29)-[[Link]](https://hpca-conf.org/2023/)[Deadline- July 25th]
+- The 29th IEEE International Symposium on High-Performance Computer Architecture (HPCA-29)-[[Link]](https://hpca-conf.org/2023/)[Deadline- July 25th]
